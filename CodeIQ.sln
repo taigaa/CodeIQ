@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniTest", "MiniTest\MiniTe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonLibrary", "CommonLibrary\CommonLibrary.csproj", "{DACD79FD-237E-4C45-BE54-D6F75AC34562}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeBeauty", "CodeBeauty\CodeBeauty.csproj", "{9B5B295D-DBE7-4FE6-A681-1B0A1653F74D}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatinSquare", "LatinSquare\LatinSquare.csproj", "{E9BC979F-D761-4EBE-91D5-5E5571BF9FB4}"
 EndProject
 Global
