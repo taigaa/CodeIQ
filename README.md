@@ -12,6 +12,13 @@ https://codeiq.jp/ace/codeiq_onishi_tadayuki/q587
 問3の動作確認だけ。
 
 
+【C#：フィギュアを最高額で売りたい】  
+https://codeiq.jp/ace/joboffer_apli/q677  
+  
+フィードバックはない問題。  
+スカウト1社からあり。
+
+
 【C#：ラテン方陣でアナグラム】  
 https://codeiq.jp/ace/joboffer_apli/q731  
   
@@ -30,14 +37,14 @@ https://codeiq.jp/ace/ozy4dm/q723
 >パッと見で何をやっているのかわかりやすいのは、大切なことだと思います。  
 
 
+【C#：素数と醜いアヒルのコード】  
+https://codeiq.jp/ace/joboffer_apli/q772  
+  
+フィードバックはない問題。
+
+
 
 ##他の公開予定
-
-【C#：フィギュアを最高額で売りたい】  
-https://codeiq.jp/ace/joboffer_apli/q677  
-  
-別言語の問題多し。
-
 
 【C#：ピザ屋で注文。いくらになる？】  
 https://codeiq.jp/ace/joboffer_apli/q689  
@@ -48,7 +55,6 @@ https://codeiq.jp/ace/joboffer_apli/q689
 【コード銀行：3年C組の成績表】  
 https://codeiq.jp/ace/code_teller/q712
 
-締め切り前  
 評価は  
   
 【参考評価値（1～5点）】  
@@ -64,7 +70,6 @@ https://codeiq.jp/ace/code_teller/q712
 【コード銀行：階段ピョンピョン１２３！】  
 https://codeiq.jp/ace/code_teller/q713  
   
-締め切り前  
 評価は  
   
 【参考評価値（1～5点）】  
@@ -86,6 +91,9 @@ http://www.cnw.ne.jp/~dr-j/youngue.html
 順列  
 http://gushwell.ifdef.jp/etude/Permutation.html  
 
+文字列の数式を演算する方法  
+http://whoopsidaisies.hatenablog.com/entry/2013/12/11/151652  
+・xFunc.Maths - Apache License, Version 2.0
 
 ##ライセンス
 
